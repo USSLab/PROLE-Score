@@ -5,19 +5,19 @@ This is the source code of the tool to calculate the *PROLE Score* on the Web si
  
 You can learn about the algorithm of the tool from the paper "'OK, Siri' or 'Hey, Google': Evaluating Voiceprint Distinctiveness via Content-based *PROLE Score*" in the USENIX Security 2022. And if you use the tool or the method in your work, please add the following citation.
  
-  @inproceedings{He2022ok,
+    @inproceedings{He2022ok,
     title={"OK, Siri" or "Hey, Google": Evaluating Voiceprint Distinctiveness via Content-based *PROLE Score*"},
     author={He, Ruiwen and Ji, Xiaoyu and Li, Xinfeng and Cheng, Yushi and Xu, Wenyuan},
     booktitle={USENIX Security Symposium},
     year={2022}
-  }
+    }
 
 If you want to add this tool in your website, you need to follow these step:
 1. Requirements
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 2. Running
-  python app.py
+    python app.py
 
 Besides, if you only want to use the tool to evaluate your speech content used to generate the voiceprint, you can leverage the tool in [our website](https://sites.google.com/view/voiceprint-sec).
 
