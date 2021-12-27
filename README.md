@@ -1,7 +1,7 @@
 # PROLE-Score
-A tool to evaluating the distinctiveness of voiceprint via Content-based *PROLE Score*.
+A tool to evaluate the distinctiveness of voiceprint via Content-based *PROLE Score*.
  
-This is the source code of the tool to calculate the *PROLE Score* on the Web site. We define the *PROLE Score* as a metric to calculate the distinctiveness of voiceprint and it depends on the model and speech content to generate the voiceprint. It is well known, voiceprints with high distinctiveness have higher security, so that the *PROLE Score* can be used to evaluate the security of voiceprint. 
+This is the source code of the tool to calculate the *PROLE Score* on the Web site. We define the *PROLE Score* as a metric to calculate the distinctiveness of voiceprint and it depends on the model and speech content used to generate the voiceprint. It is well known, voiceprints with high distinctiveness have higher security, so that the *PROLE Score* can be used to evaluate the security of voiceprint. 
  
 You can learn about the algorithm of the tool from the paper ["OK, Siri" or "Hey, Google": Evaluating Voiceprint Distinctiveness via Content-based *PROLE Score*](https://www.usenix.org/conference/usenixsecurity22/presentation/he-ruiwen) in the USENIX Security 2022. And if you use the tool or the method in your work, please add the following citation.
  
@@ -12,7 +12,7 @@ You can learn about the algorithm of the tool from the paper ["OK, Siri" or "Hey
     year={2022}
     }
 
-If you want to add this tool in your website, you need to follow these step:
+If you want to add this tool to your website, you need to follow these steps:
 1. Add libraries as requirements  
 ```pip install -r requirements.txt```
  
