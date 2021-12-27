@@ -20,5 +20,5 @@ If you want to add this tool to your website, you need to follow these steps:
 ```python app.py```
 
 Besides, if you just want to use the tool to evaluate your speech content used to generate the voiceprint, for example by selecting some appropriate wake-up words, you can leverage the tool in [our website](https://sites.google.com/view/voiceprint-sec). All you need to do is enter the speech content and select a voiceprint model, and you will get the *PROLE Score* and suggestions for improving the phrases.  
-![Illustration of using the tool on our website.](https://github.com/USSLab/PROLE-Score/blob/main/PROLEscore_GIF.gif Illustration of using the tool on our website.)
+![Illustration of using the tool on our website.](https://github.com/USSLab/PROLE-Score/blob/main/PROLEscore_GIF.gif "Illustration of using the tool on our website.")
 
