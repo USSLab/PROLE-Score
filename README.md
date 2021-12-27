@@ -13,10 +13,10 @@ You can learn about the algorithm of the tool from the paper "'OK, Siri' or 'Hey
     }
 
 If you want to add this tool in your website, you need to follow these step:
-1. Requirements
+1. Requirements  
     pip install -r requirements.txt
 
-2. Running
+2. Running  
     python app.py
 
 Besides, if you only want to use the tool to evaluate your speech content used to generate the voiceprint, you can leverage the tool in [our website](https://sites.google.com/view/voiceprint-sec).
