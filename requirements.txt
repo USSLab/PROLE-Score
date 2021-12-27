@@ -1,0 +1,25 @@
+alembic==1.5.8
+blinker==1.4
+click
+cssmin
+email-validator
+flask-assets
+flask-caching
+flask-ckeditor
+flask-debugtoolbar
+flask-dropzone
+flask-mail
+flask-migrate
+flask-sqlalchemy
+flask-wtf
+flask
+greenlet==1.0.0 ; python_version >= '3'
+itsdangerous==1.1.0
+jinja2
+jsmin
+mako
+markupsafe
+python-dateutil
+python-dotenv
+python-editor
+python-http-client
